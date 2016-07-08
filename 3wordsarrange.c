@@ -1,3 +1,4 @@
+// This is a shit program :D
 #include<stdio.h>
 void main(){
 	char a[10], b[10], c[10];
