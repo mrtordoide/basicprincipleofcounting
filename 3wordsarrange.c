@@ -8,7 +8,6 @@ void main(){
 	scanf("%s", b);
 	printf("C:");
 	scanf("%s", c);
-	system("clear");
 	printf("Those letters in the word %s%s%s can be arranged as:\n",a,b,c); 
 	printf("%s%s%s\t", a,b,c);
 	printf("%s%s%s\t", b,c,a);
