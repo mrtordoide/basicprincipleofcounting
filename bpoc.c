@@ -5,7 +5,7 @@ int main(){
   printf("Enter the number of letters to be arranged:");
   scanf("%d", &n);
   for (int i=1; i<=n; i++){
-    aw = aw*i;
+    aw *= i;
   }
   printf("\nA group of %d letters can be arranged in %d different ways.\n", n, aw);
 }
